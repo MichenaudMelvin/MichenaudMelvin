@@ -15,7 +15,7 @@
 > Glitch est un tower defense - infiltration sur PC dans lequel le joueur incarne un personnage à la 3ᵉ personne qui évolue au sein de son monde médiéval corrompu par un vide étrange.
 Le combat entre cette corruption et ce monde engendre des singularités affectant tout l’univers. Le joueur devra ainsi progresser en s'infiltrant au sein du territoire corrompu, pour identifier les infrastructures clés et les capturer. Lorsque le joueur décidera que son objectif est rempli, il devra survivre aux vagues ennemies qui lui seront opposées en générant ses propres défenses.
 
-J'ai coder toutes les fonctionnalités de l'avatar et des IA du jeu.
+J'ai codé toutes les fonctionnalités de l'avatar et des IA du jeu.
 
 La mécanique du Glitch Dash, une sorte de téléportation vers un point défini au préalable par le joueur.  
 Il s'agit simplement d'une interpolation de positions. Tout ce que le joueur va traverser au cours de ce dash fera augmenter une jauge (nommée jauge de glitch) qui aura des impacts sur différents éléments comme les ennemis ou les tourelles.  
