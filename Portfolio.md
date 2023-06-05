@@ -27,7 +27,7 @@ Dans Glitch pour se défendre contre les vagues ennemis, le joueur va devoir pla
 Les IA suivent un chemin principal en bleu qui les guident vers la structure que le joueur doit défendre. Mais elles peuvent se déplacer partout, notamment pour suivre le joueur si il entre dans leurs champs de vision. Si les IA se rapprochent trop du joueur, elles l'attaquent.  
 ![AIMovement](IMG/Glitch/AIMovement.gif)
 
-- [Télécharger Glitch](https://github.com/MichenaudMelvin/Glitch/releases/download/VerticalSlice/VerticalSlice.zip)  
+- [Télécharger Glitch](https://github.com/MichenaudMelvin/Glitch/releases/download/Beta/Beta.zip)  
 - [Repository de Glitch](https://github.com/MichenaudMelvin/Glitch)  
 
 # Claws
