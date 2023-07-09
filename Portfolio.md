@@ -3,14 +3,14 @@
 - [TransHarmony](#transharmony)
 
 # Glitch
-<!-- <p align="center">
+<p align="center">
   <img id="logoGlitch" src="IMG/Glitch/Logo.png" height=256 width=height>
-</p> -->
+</p>
 
 - Projet Unreal Engine 4 - C++ et Blueprint
 - Équipe de 6 personnes
 - Gameplay Programmer 3C et IA
-- Octobre 2022 - Juin 2023 (En cours)
+- Octobre 2022 - Juin 2023
 
 > Glitch est un tower defense - infiltration sur PC dans lequel le joueur incarne un personnage à la 3ᵉ personne qui évolue au sein de son monde médiéval corrompu par un vide étrange.
 Le combat entre cette corruption et ce monde engendre des singularités affectant tout l’univers. Le joueur devra ainsi progresser en s'infiltrant au sein du territoire corrompu, pour identifier les infrastructures clés et les capturer. Lorsque le joueur décidera que son objectif est rempli, il devra survivre aux vagues ennemies qui lui seront opposées en générant ses propres défenses.
@@ -27,7 +27,7 @@ Dans Glitch pour se défendre contre les vagues ennemis, le joueur va devoir pla
 Les IA suivent un chemin principal en bleu qui les guident vers la structure que le joueur doit défendre. Mais elles peuvent se déplacer partout, notamment pour suivre le joueur si il entre dans leurs champs de vision. Si les IA se rapprochent trop du joueur, elles l'attaquent.  
 ![AIMovement](IMG/Glitch/AIMovement.gif)
 
-- [Télécharger Glitch](https://github.com/MichenaudMelvin/Glitch/releases/download/Beta/Beta.zip)  
+- [Télécharger Glitch](https://github.com/MichenaudMelvin/Glitch/releases/latest)  
 - [Repository de Glitch](https://github.com/MichenaudMelvin/Glitch)  
 
 # Claws
