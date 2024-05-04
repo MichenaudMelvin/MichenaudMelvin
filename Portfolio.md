@@ -27,6 +27,7 @@ Dans Glitch pour se défendre contre les vagues ennemis, le joueur va devoir pla
 Les IA suivent un chemin principal en bleu qui les guident vers la structure que le joueur doit défendre. Mais elles peuvent se déplacer partout, notamment pour suivre le joueur si il entre dans leurs champs de vision. Si les IA se rapprochent trop du joueur, elles l'attaquent.  
 ![AIMovement](IMG/Glitch/AIMovement.gif)
 
+- [Trailer du jeu](https://youtu.be/VLsZSiRM8KA)  
 - [Télécharger Glitch](https://github.com/MichenaudMelvin/Glitch/releases/latest)  
 - [Repository de Glitch](https://github.com/MichenaudMelvin/Glitch)  
 
@@ -42,7 +43,7 @@ Les IA suivent un chemin principal en bleu qui les guident vers la structure que
 
 > Claws est un survival horror sur PC où l'on incarne un randonneur qui s'aventure dans une grotte non référencée dans laquelle il découvre des bâtiments scientifiques délabrés. Cependant, une entité monstrueuse habite les lieux et le traquera au moindre bruit. Il devra trouver un moyen de vous échapper vivant.
 
-J'ai principalement codé l'IA du jeu, qui est une créature aveugle mais qui possède une ouïe surdéveloppée. L'IA devait donc réagir aux sons du jeu et du joueur. J'ai utilisé le composant natif AIPerception d'UE4.
+J'ai principalement codé l'IA du jeu, qui est une créature aveugle mais qui possède une ouïe surdéveloppée. L'IA devait donc réagir aux sons du jeu et du joueur. J'ai utilisé le composant natif AIPerception d'UE4.  
 ![AIPerception](IMG/Claws/AIPerception.gif)
 
 - [Télécharger Claws](https://github.com/MichenaudMelvin/Claws/releases/download/Beta/Claws.zip)  

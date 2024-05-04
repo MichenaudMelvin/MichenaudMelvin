@@ -1,5 +1,9 @@
 # Michenaud Melvin
 
-[CV](MichenaudMelvinCV.pdf)
+[CV :fr:](MichenaudMelvinCV.pdf)
 
-[Portfolio](Portfolio.md)
+[Portfolio :fr:](Portfolio.md)
+
+[Resume :uk:](MichenaudMelvinResume.pdf)
+
+[Porfolio :uk:](PortfolioEN.md)
