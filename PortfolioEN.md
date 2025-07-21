@@ -10,7 +10,7 @@
 # EnThaur - Lost In Slumber
 
 <p align="center">
-  <img id="logoEnthaur" src="IMG/Enthaur/Logo.png" height=256 width=height>
+  <img id="logoEnthaur" src="IMG/Enthaur/Logo.PNG" height=256 width=height>
 </p>
 
 - Unreal Engine 5 Project - C++ and Blueprint
